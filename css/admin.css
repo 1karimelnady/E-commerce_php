@@ -1,0 +1,26 @@
+
+ body {
+    overflow-x: hidden;
+}
+  .product_img{
+    width: 90px;
+    height: 70px;
+    object-fit: contain;
+}
+.user_img {
+    width: 90px;
+    height: 70px;
+    object-fit: contain;
+}
+.product_img{
+    width: 100px;
+    height: 50px;
+    object-fit: contain;
+}
+.labels {
+    margin-left: 281px;
+}
+.login{
+    margin-top: 89px;
+    margin-left: 200px;
+}

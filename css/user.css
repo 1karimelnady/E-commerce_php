@@ -1,0 +1,81 @@
+body {
+    overflow-x: hidden;
+}
+.logo {
+    width: 7%;
+    height: 7%;
+}
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.adminimage {
+     width: 100px;
+     object-fit: contain;
+}
+.footer {
+    margin-top: 299px;
+}
+
+.car {
+  width: 885px;
+}
+.cart_img {
+    width: 80px;
+    height: 80px;
+
+}
+.user_order{
+    margin-top: -690px;
+    position: relative;
+    width: 1009px;
+    margin-left: 440px;
+}
+.ord {
+    position: absolute;
+    margin-top:260px;
+    margin-left: 780px;
+
+}
+.profile {
+    width: 400px;
+    display: block;
+    min-height: 800x;
+    margin-right: 1200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  box-shadow: 1px 1px 2px 3px #D2D4D4;
+} 
+.nav {
+ display: block;
+}
+
+h3 {
+position: relative;
+margin-top: -320px;
+}
+.payment_img{
+    width: 80%;
+    display: block;
+}
+.edit {
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 700px;
+} .editing {
+    width : 500px;
+    height: 45px;
+} .edit_img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+.delete{
+    margin-left: 340px;
+}
+.container {
+      width: 600px;
+      box-shadow: 1px solid rebeccapurple;
+}
